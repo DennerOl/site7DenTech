@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
             </span>
           </h1>
           <p className="text-xl text-gray-400 max-w-lg leading-relaxed font-light">
-            A 7DenTech desenvolve soluçoes de T.I sob medida, entendendo que
+            A 7DenTech desenvolve soluções de T.I sob medida, entendendo que
             cada negócio é único. Transformamos sua visão em realidade digital
             de alto impacto.
           </p>
